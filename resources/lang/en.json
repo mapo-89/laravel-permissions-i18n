@@ -1,0 +1,20 @@
+{
+  "The given role or permission should use guard `:expected` instead of `:given`.": "The given role or permission should use guard `:expected` instead of `:given`.",
+  "A permission `:permission` already exists for guard `:guard`.": "A permission `:permission` already exists for guard `:guard`.",
+  "There is no permission named `:permission` for guard `:guard`.": "There is no permission named `:permission` for guard `:guard`.",
+  "There is no [permission] with ID `:id` for guard `:guard`.": "There is no [permission] with ID `:id` for guard `:guard`.",
+  "A role `:role` already exists for guard `:guard`.": "A role `:role` already exists for guard `:guard`.",
+  "There is no role named `:role` for guard `:guard`.": "There is no role named `:role` for guard `:guard`.",
+  "There is no role with ID `:id` for guard `:guard`.": "There is no role with ID `:id` for guard `:guard`.",
+  "User does not have the right roles.": "User does not have the right roles.",
+  "Necessary roles are :roles": "Necessary roles are :roles",
+  "User does not have the right permissions.": "User does not have the right permissions.",
+  "Necessary permissions are :permissions": " Necessary permissions are :permissions",
+  "User does not have any of the necessary access rights.": "User does not have any of the necessary access rights.",
+  "Necessary roles or permissions are :values": "Necessary roles or permissions are :values",
+  "Authorizable class `:class` must use Spatie\\\\Permission\\\\Traits\\\\HasRoles trait.": "Authorizable class `:class` must use Spatie\\\\Permission\\\\Traits\\\\HasRoles trait.",
+  "User is not logged in.": "User is not logged in.",
+  "Wildcard permission must be string, permission id or permission instance": "Wildcard permission must be string, permission id or permission instance",
+  "Wildcard permission class must implement Spatie\\\\Permission\\\\Contracts\\\\Wildcard contract": "Wildcard permission class must implement Spatie\\\\Permission\\\\Contracts\\\\Wildcard contract",
+  "Wildcard permission `:permission` is not properly formatted.": "Wildcard permission `:permission` is not properly formatted."
+}

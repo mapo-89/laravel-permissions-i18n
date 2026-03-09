@@ -1,0 +1,20 @@
+{
+  "The given role or permission should use guard `:expected` instead of `:given`.": "Die angegebene Rolle oder Berechtigung sollte Guard `:expected` statt `:given` verwenden.",
+  "A permission `:permission` already exists for guard `:guard`.": "Eine Berechtigung `:permission` existiert bereits für Guard `:guard`.",
+  "There is no permission named `:permission` for guard `:guard`.": "Es existiert keine Berechtigung mit dem Namen `:permission` für Guard `:guard`.",
+  "There is no [permission] with ID `:id` for guard `:guard`.": "Es existiert keine Berechtigung mit der ID `:id` für Guard `:guard`.",
+  "A role `:role` already exists for guard `:guard`.": "Eine Rolle `:role` existiert bereits für Guard `:guard`.",
+  "There is no role named `:role` for guard `:guard`.": "Es existiert keine Rolle mit dem Namen `:role` für Guard `:guard`.",
+  "There is no role with ID `:id` for guard `:guard`.": "Es existiert keine Rolle mit der ID `:id` für Guard `:guard`.",
+  "User does not have the right roles.": "Der Benutzer hat nicht die erforderlichen Rollen.",
+  "Necessary roles are :roles": "Erforderliche Rollen: :roles",
+  "User does not have the right permissions.": "Der Benutzer hat nicht die erforderlichen Berechtigungen.",
+  "Necessary permissions are :permissions": "Erforderliche Berechtigungen: :permissions",
+  "User does not have any of the necessary access rights.": "Der Benutzer hat keine der erforderlichen Zugriffsrechte.",
+  "Necessary roles or permissions are :values": "Erforderliche Rollen oder Berechtigungen: :values",
+  "Authorizable class `:class` must use Spatie\\\\Permission\\\\Traits\\\\HasRoles trait.": "Die autorisierbare Klasse `:class` muss das Trait Spatie\\\\Permission\\\\Traits\\\\HasRoles verwenden.",
+  "User is not logged in.": "Der Benutzer ist nicht eingeloggt.",
+  "Wildcard permission must be string, permission id or permission instance": "Wildcard-Berechtigung muss ein String, eine Permission-ID oder eine Permission-Instanz sein.",
+  "Wildcard permission class must implement Spatie\\\\Permission\\\\Contracts\\\\Wildcard contract": "Die Wildcard-Permission-Klasse muss das Interface Spatie\\\\Permission\\\\Contracts\\\\Wildcard implementieren.",
+  "Wildcard permission `:permission` is not properly formatted.": "Die Wildcard-Berechtigung `:permission` ist nicht korrekt formatiert."
+}
